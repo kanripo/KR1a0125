@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易筮述
-#+DATE: 2015-09-23 09:35:26
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 21:58:56.619876
+#+PROPERTY: ID KR1a0125
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1a0125_WYG_000-1a>¶
 欽定四庫全書　　　　　經部一¶
 　周易筮述　　　　　　　易𩔖¶
@@ -25,6 +27,7 @@
 　　　　十六年五月恭校上¶
 　　　　　　　總纂宦(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　總　校　官　(臣/)　陸　費　墀¶
+#+PROPERTY: JUAN 原序
 <pb:KR1a0125_WYG_000-3a>¶
 周易筮述原序¶
 易者天也筮者人也伏羲文王周公言天孔子言人葢¶
@@ -63,4 +66,3 @@
 與經傳之言則無不合焉庻幾後有知者亦可以告無¶
 <pb:KR1a0125_WYG_000-5a>¶
 罪矣雲臺後學王宏撰自序¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易筮述
-#+DATE: 2015-09-23 09:35:26
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 21:58:56.790783
+#+PROPERTY: ID KR1a0125
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1a0125_WYG_008-1a>¶
 欽定四庫全書¶
 　周易筮述卷八¶
@@ -1514,4 +1516,3 @@
 　¶
 　¶
 　周易筮述卷八¶
-
